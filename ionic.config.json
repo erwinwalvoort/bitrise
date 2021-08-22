@@ -1,0 +1,7 @@
+{
+  "name": "bitrise",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "bitrise",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
