@@ -1,7 +1,7 @@
 {
-  "name": "bitrise",
+  "name": "bitrise-ionic-test",
   "integrations": {
-    "capacitor": {}
+    "cordova": {}
   },
-  "type": "angular"
+  "type": "ionic-angular"
 }
